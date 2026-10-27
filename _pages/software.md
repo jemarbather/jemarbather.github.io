@@ -5,7 +5,7 @@ permalink: /software/
 author_profile: true
 ---
 
-R packages developed with my advisees and collaborators. <sup>†</sup>Advisee
+R packages developed with my students and collaborators. <sup>†</sup>Advisee
 
 ## twoPhaseSens
 
