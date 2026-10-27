@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor of Biostatistics, NYU School of Global Public Health"
   location         : "New York, NY"
-  employer         :
+  employer         : # Employer
   uri              : # URL
   email            : "jemar.bather@nyu.edu" 
 
@@ -143,7 +143,7 @@ facebook:
   app_id                 :
   publisher              :
 og_image                 : og-image.png   # Social media default site image (lives in /images/)
-og_description           :  # Social media default site image description
+og_description           : "Assistant Professor of Biostatistics, NYU School of Global Public Health"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
