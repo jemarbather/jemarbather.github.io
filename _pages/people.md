@@ -5,6 +5,11 @@ permalink: /people/
 author_profile: true
 ---
 
+<style>
+  .page__content table { overflow-x: auto; }
+  .page__content table th, .page__content table td { white-space: nowrap; }
+</style>
+
 ## Current
 
 Coming soon.
