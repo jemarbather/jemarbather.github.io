@@ -15,4 +15,4 @@ Dr. Bather is committed to training the next generation of quantitative public h
 
 Dr. Bather received his PhD and MA in Biostatistics from Harvard University, his MS in Applied Statistics for Social Science Research from New York University, and his BS in Statistics from the Pennsylvania State University. He is an active member of the American Statistical Association, the Institute of Mathematical Statistics, and the International Biometric Society's Eastern North American Region (ENAR).
 
-**On Ph.D. admissions:** Ph.D. admissions into our department are decided by the admissions committee instead of individual faculty members. Therefore, I may not be able to respond to emails concerning Ph.D. admissions. If you are interested in working with me as a doctoral student, please apply to our Ph.D. program and list me as one of your potential advisors.
+**On PhD admissions:** PhD admissions in the Department of Biostatistics are decided by a committee rather than by individual faculty members, so I cannot respond to inquiries about admission. Prospective students interested in working with me should apply to the PhD program and name me as a potential advisor.
