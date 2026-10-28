@@ -8,6 +8,7 @@ author_profile: true
 <style>
   .archive table { font-size: 1em; overflow-x: auto; }
   .archive table th, .archive table td { white-space: nowrap; }
+  .archive table th:last-child, .archive table td:last-child { white-space: normal; }
 </style>
 
 ## Current
