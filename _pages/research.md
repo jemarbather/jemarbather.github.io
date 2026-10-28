@@ -9,6 +9,15 @@ Peer-reviewed publications grouped by research theme, newest first within each t
 
 <sup>§</sup>Senior author, <sup>†</sup>Advisee
 
+## Statistical Methods
+
+1. **Bather JR**, Anyaso-Samuel S, Chen Y<sup>†</sup>, Elliott L, Bennett AS, Goodman MS. Performance of Cluster-Weighted Modified Poisson Regression for Estimating Risk Ratios in Longitudinal Data With Informative Cluster Sizes. *Epidemiologic Methods.* 2026; 15(1):20260016. [[Link](https://doi.org/10.1515/em-2026-0016)]
+2. Fang J<sup>†</sup>, Goodman MS, Cuevas AG, Mautner Wizentier M<sup>†</sup>, **Bather JR<sup>§</sup>**. Three Underused Statistical Methods in Social Epidemiology: Multiple Informant Models, Fractional Regression, and Restricted Mean Survival Time. *American Journal of Epidemiology.* 2025. [[Link](https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwae480/7942382)]
+3. **Bather JR**, Robinson TJ<sup>†</sup>, Goodman MS. Bayesian Kernel Machine Regression for Social Epidemiologic Research. *Epidemiology.* 2024; 35(6):735-747. [[Link](https://journals.lww.com/epidem/fulltext/2024/11000/bayesian_kernel_machine_regression_for_social.1.aspx)]
+4. **Bather JR**, Han L, Bennett AS, Elliott L, Goodman MS. Detecting Univariate, Bivariate, and Overall Effects of Drug Mixtures Using Bayesian Kernel Machine Regression. *The American Journal of Drug and Alcohol Abuse.* 2024; 50(5) 1-8. [[Link](https://www.tandfonline.com/doi/full/10.1080/00952990.2024.2380463)]
+5. Ocampo A, **Bather JR**. Single-World Intervention Graphs for Defining, Identifying, and Communicating Estimands in Clinical Trials. *Statistics in Medicine*. 2023; 42(21), 3892-3902. [[Link](https://onlinelibrary.wiley.com/doi/10.1002/sim.9833)]
+6. **Bather JR**, Horton NJ, Coull BA, Williams PL. The Impact of Correlated Exposures and Missing Data on Multiple Informant Models Used to Identify Critical Exposure Windows. *Statistics in Medicine*. 2023; 42(8), 1171-1187. [[Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9664)]
+
 ## Genomics, Health Literacy, and Cancer Prevention
 
 1. **Bather JR**, Pagán JA, Lindenfeld Z, Fortuna KL, Del Fiol G, Goodman MS, Kaphingst KA. Patient Viewing and Comprehension of Immediately Released Test Results. *JAMA Network Open.* 2026; 9(8):e2630698. [[Link](https://doi.org/10.1001/jamanetworkopen.2026.30698)]
@@ -103,15 +112,6 @@ Peer-reviewed publications grouped by research theme, newest first within each t
 7. **Bather JR**, Burke EM, Plepys CM, Goodman MS. Racial and Ethnic Composition of Students, Graduates, and Faculty in Environmental Health Sciences, 2011-2021. *Environmental Health Insights*. 2023; 17. [[Link](https://journals.sagepub.com/doi/full/10.1177/11786302221150688)]
 8. Goodman MS, **Bather JR**, Chu X, Pagano M, Plepys CM, Sebro RA. Racial and Ethnic Diversity Among Students, Graduates, and Faculty in Biostatistics and Epidemiology, 2010-2020. *Public Health Reports*. 2022; 138(3), 546-554. [[Link](https://journals.sagepub.com/doi/full/10.1177/00333549221097653)]
 9. Goodman MS, Plepys CM, **Bather JR**, Kelliher RM, Healton CG. Racial/Ethnic Diversity in Academic Public Health: 20-Year Update. *Public Health Reports*. 2020; 135(1), 74-81. [[Link](https://journals.sagepub.com/doi/full/10.1177/0033354919887747)]
-
-## Statistical Methods
-
-1. **Bather JR**, Anyaso-Samuel S, Chen Y<sup>†</sup>, Elliott L, Bennett AS, Goodman MS. Performance of Cluster-Weighted Modified Poisson Regression for Estimating Risk Ratios in Longitudinal Data With Informative Cluster Sizes. *Epidemiologic Methods.* 2026; 15(1):20260016. [[Link](https://doi.org/10.1515/em-2026-0016)]
-2. Fang J<sup>†</sup>, Goodman MS, Cuevas AG, Mautner Wizentier M<sup>†</sup>, **Bather JR<sup>§</sup>**. Three Underused Statistical Methods in Social Epidemiology: Multiple Informant Models, Fractional Regression, and Restricted Mean Survival Time. *American Journal of Epidemiology.* 2025. [[Link](https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwae480/7942382)]
-3. **Bather JR**, Robinson TJ<sup>†</sup>, Goodman MS. Bayesian Kernel Machine Regression for Social Epidemiologic Research. *Epidemiology.* 2024; 35(6):735-747. [[Link](https://journals.lww.com/epidem/fulltext/2024/11000/bayesian_kernel_machine_regression_for_social.1.aspx)]
-4. **Bather JR**, Han L, Bennett AS, Elliott L, Goodman MS. Detecting Univariate, Bivariate, and Overall Effects of Drug Mixtures Using Bayesian Kernel Machine Regression. *The American Journal of Drug and Alcohol Abuse.* 2024; 50(5) 1-8. [[Link](https://www.tandfonline.com/doi/full/10.1080/00952990.2024.2380463)]
-5. Ocampo A, **Bather JR**. Single-World Intervention Graphs for Defining, Identifying, and Communicating Estimands in Clinical Trials. *Statistics in Medicine*. 2023; 42(21), 3892-3902. [[Link](https://onlinelibrary.wiley.com/doi/10.1002/sim.9833)]
-6. **Bather JR**, Horton NJ, Coull BA, Williams PL. The Impact of Correlated Exposures and Missing Data on Multiple Informant Models Used to Identify Critical Exposure Windows. *Statistics in Medicine*. 2023; 42(8), 1171-1187. [[Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9664)]
 
 ## Reproductive, Child, and Environmental Health
 
