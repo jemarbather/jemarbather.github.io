@@ -18,4 +18,4 @@ author_profile: true
 - Iskander JK, Wolicki SB, Leeb RT, Siegel PZ. Successful scientific writing and publishing: a step-by-step approach. *Prev Chronic Dis*. 2018;15:E79. [[Link](https://doi.org/10.5888/pcd15.180085)]
 - Mensh B, Kording K. Ten simple rules for structuring papers. *PLoS Comput Biol*. 2017;13(9):e1005619. [[Link](https://doi.org/10.1371/journal.pcbi.1005619)]
 - Lingard L, Watling C. It's a story, not a study: writing an effective research paper. *Acad Med*. 2016;91(12):e12. [[Link](https://doi.org/10.1097/ACM.0000000000001389)]
-- Hengl T, Gould M. Rules of thumb for writing research articles. International Institute of Geo-Information Science and Earth Observation (ITC); 2002. [[Link](http://www.itc.nl/personal/hengl/RT/)]
+- Hengl T, Gould M. Rules of thumb for writing research articles. International Institute of Geo-Information Science and Earth Observation (ITC); 2002. [[Link](https://edgeforscholars.vumc.org/wp-content/uploads/2022/08/Rules-of-Thumb-Hengl.pdf)]
