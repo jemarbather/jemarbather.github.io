@@ -142,7 +142,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : og-image.png   # Social media default site image (lives in /images/)
+og_image                 :   # left blank so link previews show no image
 og_description           : "Assistant Professor of Biostatistics, NYU School of Global Public Health"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
