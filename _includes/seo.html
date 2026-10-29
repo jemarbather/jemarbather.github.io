@@ -1,3 +1,4 @@
+````liquid
 {% include base_path %}
 
 {% if site.url %}
@@ -41,7 +42,7 @@ with base_path so the result is always absolute.
 {% elsif site.og_image %}
   {% assign seo_image_abs = site.og_image | prepend: "/images/" | prepend: base_path %}
 {% else %}
-  {% assign seo_image_abs = "/images/og-image.png" | prepend: base_path %}
+  {% assign seo_image_abs = false %}
 {% endif %}
 
 {% assign seo_author = page.author | default: page.author[0] | default: site.author[0] %}
@@ -164,3 +165,4 @@ Twitter username (site.twitter.username), matching upstream behavior.
     }
   </script>
 {% endif %}
+````
