@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Professional overview"
+og_title: "Jemar R. Bather, PhD"
 author_profile: true
 redirect_from: 
   - /about/
