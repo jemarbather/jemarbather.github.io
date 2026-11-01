@@ -21,8 +21,9 @@ author_profile: true
 - Lingard L, Watling C. It's a story, not a study: writing an effective research paper. *Acad Med*. 2016;91(12):e12. [[Link](https://doi.org/10.1097/ACM.0000000000001389)]
 - Hengl T, Gould M. Rules of thumb for writing research articles. International Institute of Geo-Information Science and Earth Observation (ITC); 2002. [[Link](https://edgeforscholars.vumc.org/wp-content/uploads/2022/08/Rules-of-Thumb-Hengl.pdf)]
 
-## Scholarships & Fellowships
+## Funding & Training Opportunities
 
 - 2+2 Program, Harvard Business School. Deferred MBA admission for students in their final year of college or a full-time master's program, who enroll after two to four years of work experience. [[Link](https://www.hbs.edu/mba/admissions/application-process/college-students-2-2)]
 - Morrill Scholarship Program, The Ohio State University. Merit scholarships and enrichment opportunities for incoming first-year students committed to leadership, service, and civic engagement. [[Link](https://ugeducation.osu.edu/student-enrichment/scholars-programs/morrill-scholarship-program)]
 - Alumnae Scholarship Housing, The Ohio State University. A scholarship housing program and living-learning community for undergraduate students. [[Link](https://housing.osu.edu/hms/living-learning-communities/alumnae-scholarship-housing)]
+- National Violent Death Reporting System New Investigator Research Award, American Public Health Association and CDC. A stipend of up to $5,000 for early-career researchers to analyze National Violent Death Reporting System data and develop a manuscript. [[Link](https://www.apha.org/topics-and-issues/injury-and-violence-prevention/nvdrs)]
